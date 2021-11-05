@@ -12,7 +12,7 @@ import javax.microedition.khronos.egl.EGLConfig
 import javax.microedition.khronos.opengles.GL10
 
 
-class AirHockeyRenderer : GLSurfaceView.Renderer {
+class ShaderRenderer : GLSurfaceView.Renderer {
 
     private val POSITION_COMPONENT_COUNT = 2
 
